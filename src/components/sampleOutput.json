@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Quentin Webb, Suryatapa Bhattacharya",
+            "title": "Global Markets Drop on Concerns Over New Covid-19 Variant - The Wall Street Journal",
+            "description": "Travel stocks and oil fall, while Treasurys rally",
+            "url": "https://www.wsj.com/articles/global-stock-markets-dow-update-11-26-2021-11637901748",
+            "urlToImage": "https://images.wsj.net/im-441550/social",
+            "publishedAt": "2021-11-26T08:08:00Z",
+            "content": "Global equity markets and U.S. stock futures fell after South Africa raised the alarm over a new, fast-spreading strain of the coronavirus, triggering concern about the potential for new travel restr… [+236 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "China asks Didi to delist from U.S. on data security fears - Bloomberg News - Reuters",
+            "description": "Chinese regulators have asked top executives of ride hailing giant Didi Global Inc <a href=\"https://www.reuters.com/companies/DIDI.N\" target=\"_blank\">(DIDI.N)</a> to devise a plan to delist from the New York Stock Exchange due to concerns about data security,…",
+            "url": "https://www.reuters.com/world/china/china-asks-didi-delist-us-security-fears-bloomberg-news-2021-11-26/",
+            "urlToImage": "https://www.reuters.com/resizer/f5_VKPibl9GyeTnj-KD8Q0FDQDA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/J7JWZCXQZFOTNH4IOLGSOYR6ZE.jpg",
+            "publishedAt": "2021-11-26T05:51:00Z",
+            "content": "SHANGHAI, Nov 26 (Reuters) - Chinese regulators have asked top executives of ride hailing giant Didi Global Inc (DIDI.N) to devise a plan to delist from the New York Stock Exchange due to concerns ab… [+2287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": null,
+            "title": "Kuo: Apple plans to replace the iPhone with AR in 10 years - 9to5mac.com",
+            "description": "Apple analyst Ming-Chi Kuo believes that the iPhone will live for as long as 10 more years and, after that, Apple will replace it with AR.",
+            "url": "https://9to5mac.com/2021/11/25/kuo-apple-plans-to-replace-the-iphone-with-ar-in-10-years/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/iPhone-13-value.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-11-26T05:39:00Z",
+            "content": "On the same note that Apple analyst Ming-Chi Kuo says the company will launch a new AR headset in 2022, he also predicts that the iPhone will live for as long as 10 more years and, after that, Apple … [+2133 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus variant fear sparks Africa travel curbs - BBC News",
+            "description": "Six southern African countries are put on the red list, amid \"deep concern\" over a new variant of the virus.",
+            "url": "https://www.bbc.com/news/uk-59424269",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/147A/production/_121824250_pa-53560653.jpg",
+            "publishedAt": "2021-11-26T05:33:08Z",
+            "content": "Travellers arriving in England from several southern African countries will have to quarantine amid warnings over a new coronavirus variant.\r\nUK Health Secretary Sajid Javid said from 12:00 GMT on Fr… [+5733 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Kelly Tyko, USA TODAY",
+            "title": "When do stores open for Black Friday deals? See hours for Walmart, Kohl's, Target, Costco and more - USA TODAY",
+            "description": "What time does Target open Black Friday 2021? When does Walmart open stores Friday? Most retailers will open earlier than normal hours Friday.",
+            "url": "https://www.usatoday.com/story/money/shopping/2021/11/26/black-friday-hours-2021-deals/8758154002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/11/19/NATR/6685ace9-304e-41ab-9062-8b6099f06d6c-11-19_Black_Friday_3.jpg?auto=webp&crop=4921,2769,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2021-11-26T05:01:25Z",
+            "content": "At many stores, Friday is the last chance to pick up Black Friday deals.\r\nWhile Black Friday sales have been going on throughout November with early sales starting before Halloween, the official shop… [+5438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Todd Archer",
+            "title": "Dallas Cowboys frustrated by amount of penalties in OT loss to Las Vegas Raiders - ESPN",
+            "description": "The Cowboys and Raiders were penalized a combined 28 times for 276 yards in Thursday night's game.",
+            "url": "https://www.espn.com/nfl/story/_/id/32716458/dallas-cowboys-frustrated-amount-penalties-ot-loss-las-vegas-raiders",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1126%2Fr942663_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-11-26T04:35:38Z",
+            "content": "ARLINGTON, Texas -- Dallas Cowboys owner and general manager Jerry Jones made it clear he did not pin his team's 36-33 overtime loss to the Las Vegas Raiders on the officials.\r\nBut he also made it cl… [+4410 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL Thanksgiving grades: Raiders earn 'B+' for shocking Cowboys, Bears don't impress in win, Saints fall flat - CBSSports.com",
+            "description": "The Thanksgiving Day NFL grades are in",
+            "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-grades-raiders-earn-b-for-shocking-cowboys-bears-dont-impress-in-win-saints-fall-flat/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/11/26/cd6b39c9-7def-48cc-887c-a84224111321/thumbnail/1200x675/767b9803a0c40676decea12ab1f715b8/carr2.jpg",
+            "publishedAt": "2021-11-26T04:34:00Z",
+            "content": "The most appetizing NFL game wasn't the first one on Thanksgiving Day 2021, but though the level of play in Bears-Lions left much to be desired, it did give us a game that wasn't decided until the fi… [+1010 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Nellie Andreeva",
+            "title": "Strong Winds Leave Tens Of Thousands Without Power In Southern California On Thanksgiving - Deadline",
+            "description": "Blistering Santa Ana winds and very low humidity brought fire danger to Southern California on Thanksgiving and with that, pre-emptive power outages. As of 3 PM on Thursday, over 68,000 customers of Southern California Edison and San Diego Gas & Electric in h…",
+            "url": "https://deadline.com/2021/11/strong-winds-power-outages-southern-california-thanksgiving-1234880762/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/11/edison.jpeg?w=1024",
+            "publishedAt": "2021-11-26T03:56:00Z",
+            "content": "Blistering Santa Ana winds and very low humidity brought fire danger to Southern California on Thanksgiving and with that, pre-emptive power outages.\r\nAs of 3 PM on Thursday, over 68,000 customers of… [+503 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Story by Reuters",
+            "title": "Death toll in Russian mine tragedy rises to more than 50 - CNN",
+            "description": "A gas leak in a Siberian coal mine killed at least 52 people on Thursday, Russian news agencies said, including six rescuers who were sent down to try to bring out dozens of men.",
+            "url": "https://www.cnn.com/2021/11/25/europe/russia-mining-accident-siberia-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211125051825-belovo-russia-coal-mine-incident-11-25-2021-super-tease.jpg",
+            "publishedAt": "2021-11-26T03:44:00Z",
+            "content": "A gas leak in a Siberian coal mine killed at least 52 people on Thursday, Russian news agencies said, including six rescuers who were sent down to try to bring out dozens of men in what was one of Ru… [+1566 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "George Ramsay, Alicia Lloyd and CNN Sport staff",
+            "title": "IOC member Dick Pound 'puzzled' by reaction to Peng Shuai video call - CNN",
+            "description": "Long-time International Olympic Committee (IOC) member Dick Pound has said that he is \"puzzled\" by the reaction to a video call between three-time Olympian Peng Shuai and IOC president Thomas Bach.",
+            "url": "https://www.cnn.com/2021/11/25/tennis/dick-pound-puzzled-peng-shuai-reaction-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211125143431-dick-pound-ioc-feb-2020-super-tease.jpg",
+            "publishedAt": "2021-11-26T03:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Nellie Andreeva",
+            "title": "Bryan Adams Tests Positive For Covid Again, Goes To Hospital In Italy - Deadline",
+            "description": "Bryan Adams has tested positive for Covid-19, the Canadian rock star wrote on Instagram Thursday. “Here I am, just arrived in Milano, and I’ve tested positive for the second time in a month for Covid. So it’s off to the hospital for me. Thanks for all your su…",
+            "url": "https://deadline.com/2021/11/bryan-adams-tests-positive-covid-hospital-italy-1234880759/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/11/BryanAdams.png?w=1024",
+            "publishedAt": "2021-11-26T03:12:00Z",
+            "content": "Bryan Adams has tested positive for Covid-19, the Canadian rock star wrote on Instagram Thursday.\r\n“Here I am, just arrived in Milano, and I’ve tested positive for the second time in a month for Covi… [+1138 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Cheryl Teh",
+            "title": "Marjorie Taylor Greene says Kevin McCarthy doesn't have the House GOP's full support to be speaker - Business Insider",
+            "description": "Greene said that McCarthy did not have the votes to clinch the speaker seat because he let conservatives like herself and Paul Gosar take \"abuse.\"",
+            "url": "https://www.businessinsider.com/marjorie-taylor-greene-kevin-mccarthy-house-gop-support-speaker-2021-11",
+            "urlToImage": "https://i.insider.com/61a0398fee9795001883e83e?width=1200&format=jpeg",
+            "publishedAt": "2021-11-26T02:53:41Z",
+            "content": "Georgia Rep. Marjorie Taylor Greene called out House Minority Leader Kevin McCarthy, saying he does not have the full support of House Republicans to become speaker even if the GOP takes a congressio… [+1964 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Alicia Victoria Lozano",
+            "title": "Unlike Kyle Rittenhouse, Travis McMichael 'didn't come off as credible,' experts say - NBC News",
+            "description": "Travis McMichael sealed his fate when he took the stand in the murder trial related to Ahmaud Arbery's death, legal experts said.",
+            "url": "https://www.nbcnews.com/news/us-news/kyle-rittenhouse-travis-mcmichael-didnt-come-credible-experts-say-rcna6675",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-11/211124-travis-mcmichael-ac-415p-f459b6.jpg",
+            "publishedAt": "2021-11-26T01:48:00Z",
+            "content": "Travis McMichael sealed his fate when he took the stand in his own defense in the murder trial related to the death of Ahmaud Arbery, a 25-year-old Black man who was chased down and killed by three w… [+3760 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Caroline Vakil",
+            "title": "US lawmakers arrive in Taiwan to meet with local officials | TheHill - The Hill",
+            "description": "A bipartisan group of U.S. lawmakers arrived in Taiwan to meet wi...",
+            "url": "https://thehill.com/homenews/house/583168-us-lawmakers-arrive-in-taiwan-to-meet-with-local-officials",
+            "urlToImage": "https://thehill.com/sites/default/files/taiwanflag_09182020getty.jpg",
+            "publishedAt": "2021-11-26T01:09:53Z",
+            "content": "A bipartisan group of U.S. lawmakers arrived in Taiwan to meet with local officials as part of a much larger delegation trip to visit several Asian nations. \r\nAfter celebrating Thanksgiving with U.S.… [+3431 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Darlene Superville",
+            "title": "Biden wishes Americans happy, closer-to-normal Thanksgiving - Associated Press",
+            "description": "NANTUCKET, Mass. (AP) — President Joe Biden on Thursday wished Americans a happy and closer-to-normal Thanksgiving, the second celebrated in the shadow of the coronavirus pandemic , in remarks welcoming the resumption of holiday traditions by millions of U.S.",
+            "url": "https://apnews.com/article/coronavirus-pandemic-joe-biden-health-lifestyle-thanksgiving-703aede19c8d6c9523511992fe1f638d",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b5d9b009c0fd4a819f181dd029e878bc/3000.jpeg",
+            "publishedAt": "2021-11-26T00:56:15Z",
+            "content": "NANTUCKET, Mass. (AP) President Joe Biden on Thursday wished Americans a happy and closer-to-normal Thanksgiving, the second celebrated in the shadow of the coronavirus pandemic, in remarks welcoming… [+4537 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kstp.com"
+            },
+            "author": "Callan Gray",
+            "title": "Minnesota hospitals face capacity challenges for second Thanksgiving in a row - KSTP",
+            "description": "For the second Thanksgiving in a row, the pandemic is putting pressure on Minnesota hospitals.",
+            "url": "https://kstp.com/coronavirus/hospital-capacity-thanksgiving/6313410/",
+            "urlToImage": "https://kstp.com/kstpImages/repository/2021-11/AllinaUnitedHospitalEmergencyRoom.jpg",
+            "publishedAt": "2021-11-26T00:38:17Z",
+            "content": "Allina Health told 5 EYEWITNESS NEWS it is operating at, or near, capacity throughout its 11-hospital system. According to Boland, Mercy Hospital's ICU is also full this Thanksgiving.\r\n“Our ICU has b… [+3223 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "David Ingram",
+            "title": "Thanksgiving travel rush returns: Airport screenings reach pandemic high - NBC News",
+            "description": "Airports are busy again, and air travel is inching closer to pre-pandemic levels.",
+            "url": "https://www.nbcnews.com/news/us-news/thanksgiving-travel-rush-returns-airport-screenings-reach-pandemic-hig-rcna6768",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-11/211111-airport-travel-se-1244p-97decd.jpg",
+            "publishedAt": "2021-11-26T00:37:00Z",
+            "content": "Airports are busy again, and air travel is inching closer to pre-pandemic levels. \r\nDriven by pre-Thanksgiving travel, 2.3 million people passed through airport screenings Wednesday in what the Trans… [+1081 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "\"Afghan girl\" on 1985 cover of National Geographic evacuated to Italy - Axios",
+            "description": "Sharbat Gula was evacuated after appealing for help to leave the country following the Taliban's takeover in August.",
+            "url": "https://www.axios.com/afghan-girl-national-geographic-italy-evacuation-b9d0fe9a-67b8-43c5-9f8d-37f7d9db0f83.html",
+            "urlToImage": "https://images.axios.com/g8iv8avlaUqgrDh1D4_x9ACrlJI=/1750x879:3003x1584/1366x768/2021/11/25/1637874571495.jpg",
+            "publishedAt": "2021-11-26T00:06:09Z",
+            "content": "Sharbat Gula, who became known internationally as \"Afghan girl\" after she was featured on a 1985 cover of National Geographic, has arrived in Rome, Italian Prime Minister Mario Draghi's office said o… [+1277 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Billy Kwong",
+            "title": "The Best Black Friday Tech Deals 2021: Laptops, Robot Vacuums, Tablets, More - PCMag.com",
+            "description": "Looking for deals on desktops, routers, Amazon devices, drones, and more? We have you covered with the best discounts on today's top tech products.",
+            "url": "https://www.pcmag.com/deals/best-black-friday-live-deals",
+            "urlToImage": "https://i.pcmag.com/imagery/articles/02y3m0MRcjdhIQ1BXSObeY1-2.fit_lim.size_1200x630.v1637853773.jpg",
+            "publishedAt": "2021-11-26T00:01:47Z",
+            "content": "Black Friday is finally upon us, and if you've been holding off on your holiday shopping in the hopes of scoring a major discount, now's your chance. Whether you need a new laptop or Amazon Kindle, w… [+6002 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "mlive.com"
+            },
+            "author": "Benjamin Raven | braven@mlive.com",
+            "title": "Inside the locker room: Detroit Lions try to explain what went wrong on Chicago’s 18-play game-winning drive - mlive.com",
+            "description": "\"We had the lead and we’ve got to figure out a way to get them off the field, and not score points. That’s really it.”",
+            "url": "https://www.mlive.com/lions/2021/11/inside-the-locker-room-detroit-lions-try-to-explain-what-went-wrong-on-chicagos-18-play-game-winning-drive.html",
+            "urlToImage": "https://www.mlive.com/resizer/zgWsfe7jq8QW6TTM3xlslzEezQw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3PMJTWEI7VDBNPUII76WAUAGLQ.jpg",
+            "publishedAt": "2021-11-25T23:58:00Z",
+            "content": "DETROIT -- Detroits defense suffered from miscommunication issues throughout the game, with its final stand sticking out like a sore thumb in the 16-14 loss to the Chicago Bears on Thanksgiving.\r\nThe… [+7610 chars]"
+        }
+    ]
+}
